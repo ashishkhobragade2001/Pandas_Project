@@ -1,7 +1,9 @@
 import pandas as pd
 
 filename = "D://CREDENCE CLASS//AUTOMATION//Pandas//Resources//orders.csv"
+filename1 = "D://CREDENCE CLASS//AUTOMATION//Pandas//Resources//sample_dataframe.csv"
 data = pd.read_csv(filename)
+data1 = pd.read_csv(filename1)
 #print(data)
 
 ##############@@@@@@@@@@@@@@ duplicate records @@@@@@@@@
@@ -61,13 +63,13 @@ def rename_or_Replace_values(data):
     data["name"] = data["name"].replace("Michael", "Ashish khobragade")
     data.to_csv(filename, index=False)
     print("chages successfull ...")
-rename_or_Replace_values(data)
+#rename_or_Replace_values(data)
 
 ##@@@@@@@@@@@@ joing and merging
-def join_and_merge(data):
-    df_merged = pd.merge(data, data, on='id', how='inner')  # Inner Join
+def join_and_merge(data, data1):
+    df_merged = pd.merge(data, data1, on='id', how='inner')  # Inner Join
     print(df_merged)
-#join_and_merge(data)
+join_and_merge(data, data1)
 
 
 def my_method():
