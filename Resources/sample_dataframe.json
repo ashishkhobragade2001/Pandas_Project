@@ -1,0 +1,6 @@
+{"ID":1,"Name":"John Doe","Age":29,"Department":"IT","Joining_Date":"2021-06-15","Salary":75000.5,"Is_Active":true}
+{"ID":2,"Name":"Jane Smith","Age":34,"Department":"HR","Joining_Date":"2019-08-01","Salary":62000.0,"Is_Active":true}
+{"ID":3,"Name":"Emily Johnson","Age":42,"Department":"Finance","Joining_Date":"2015-03-20","Salary":85000.0,"Is_Active":false}
+{"ID":4,"Name":"Michael Brown","Age":25,"Department":"Marketing","Joining_Date":"2022-01-10","Salary":48000.0,"Is_Active":true}
+{"ID":5,"Name":"Sarah Davis","Age":30,"Department":"IT","Joining_Date":"2020-11-11","Salary":70000.0,"Is_Active":true}
+{"ID":6,"Name":"David Wilson","Age":37,"Department":"Operations","Joining_Date":"2017-07-05","Salary":90000.0,"Is_Active":false}

@@ -1,0 +1,7 @@
+ID,Name,Age,Department,Join_Date,Salary,Is_Active
+1,John Doe,29,IT,2021-06-15,75000.5,True
+2,Jane Smith,34,HR,2019-08-01,62000.0,True
+3,Emily Johnson,42,Finance,2015-03-20,85000.0,False
+4,Michael Brown,25,Marketing,2022-01-10,48000.0,True
+5,Sarah Davis,30,IT,2020-11-11,70000.0,True
+6,David Wilson,37,Operations,2017-07-05,90000.0,False
