@@ -70,4 +70,7 @@ def join_and_merge(data):
 #join_and_merge(data)
 
 
+def my_method():
+    pass
+
 
