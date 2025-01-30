@@ -69,3 +69,5 @@ def join_and_merge(data):
     print(df_merged)
 #join_and_merge(data)
 
+##end of method
+
